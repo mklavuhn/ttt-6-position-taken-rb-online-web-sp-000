@@ -2,5 +2,3 @@
 open_position = (" ") || ("")
 def position_taken?(board, index)
   if board[index] == (" ") || ("")
-   open_position
-end   
